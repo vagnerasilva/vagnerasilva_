@@ -64,6 +64,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A CI/CD workflow for Machine Learning](https://medium.com/@lyle-okoth/a-ci-cd-workflow-for-machine-learning-b1977bf223ec?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Want to reach me?
