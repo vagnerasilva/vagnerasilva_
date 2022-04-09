@@ -96,3 +96,6 @@ I am available on all the major social platforms. </br>
 [twitter]: https://medium.com/@lyle-okoth
 [linkedin]: https://medium.com/@lyle-okoth
 [npm]: https://www.npmjs.com/~lyle-okoth
+
+[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
+[markdown-badges]: https://github.com/Ileriayo/markdown-badges
