@@ -1,6 +1,6 @@
 # Hi there, I'm Lyle 👋 
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)[lyles-blog]
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][lyles-blog]
 
 ## I'm a Fullstack Developer, Rotaractor, Content Creator and Teacher!!
 
