@@ -1,13 +1,12 @@
 # Hi there, I'm Lyle 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Fullstack Developer, Rotaractor, Content Creator and Teacher!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Check out my articles: [Lyle's Blog Posts][lyles-blog]!
+- 🌱 I’m currently learning business, psychology and bio-statistics
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🥅 2022 Goals: Coach junior developers through my startup, Oryks Systems
+- ⚡ Fun fact: I'm an introvert who loves networking; find me on [linkedin][linkedin]! and [twitter][twitter]!
 
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
@@ -17,3 +16,6 @@
 
 [languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=twyle&langs_count=8&layout=compact
 [languages-url]: https://github.com/twyle/github-readme-stats
+[lyles-blog]: https://medium.com/@lyle-okoth
+[twitter]: https://medium.com/@lyle-okoth
+[linkedin]: https://medium.com/@lyle-okoth
