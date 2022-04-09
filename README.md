@@ -62,6 +62,10 @@
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Want to reach me?
 I am available on all the major social platforms. </br>
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
