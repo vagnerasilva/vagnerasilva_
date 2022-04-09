@@ -101,4 +101,4 @@ I am available on all the major social platforms. </br> </br>
 [markdown-badges]: https://github.com/Ileriayo/markdown-badges
 
 [facebook-image]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
-[facebook-link]: 
+[facebook-link]: https://web.facebook.com/lyce.okeke/
