@@ -2,11 +2,11 @@
 
 ## I'm a Fullstack Developer, Rotaractor, Content Creator and Teacher!!
 
-- 🔭 Check out my articles: [Lyle's Blog Posts][lyles-blog]!
+- 🔭 Check out my articles: [Lyle's Blog Posts][lyles-blog]
 - 🌱 I’m currently learning business, psychology and bio-statistics
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Coach junior developers through my startup, Oryks Systems
-- ⚡ Fun fact: I'm an introvert who loves networking; find me on [linkedin][linkedin]! and [twitter][twitter]!
+- ⚡ Fun fact: I'm an introvert who loves networking; find me on [linkedin][linkedin] and [twitter][twitter]
 
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
