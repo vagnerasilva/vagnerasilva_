@@ -72,7 +72,7 @@
 
 ## Want to reach me?
 I am available on all the major social platforms. </br> </br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][https://web.facebook.com/lyce.okeke/]
+[![Facebook][facebook-image]][facebook-link]
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -99,3 +99,6 @@ I am available on all the major social platforms. </br> </br>
 
 [blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
 [markdown-badges]: https://github.com/Ileriayo/markdown-badges
+
+[facebook-image]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
+[facebook-link]: 
