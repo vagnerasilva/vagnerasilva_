@@ -49,6 +49,21 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Content Creator!!
+
+- 🔭 Check out my articles: [Lyle's Blog Posts][lyles-blog]
+- 🌱 I’m currently learning business, psychology and bio-statistics
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Coach junior developers through my startup, Oryks Systems
+- ⚡ Fun fact: I'm an introvert who loves networking; find me on [linkedin][linkedin] and [twitter][twitter]
+
+[![Lyle's GitHub stats][stats-image]][stats-url]
+[![Top Langs][languages-image]][languages-url]
+
+## Want to reach me?
+I am available on all the major social platforms. </br>
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
@@ -62,18 +77,6 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Content Creator!!
-
-- 🔭 Check out my articles: [Lyle's Blog Posts][lyles-blog]
-- 🌱 I’m currently learning business, psychology and bio-statistics
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Coach junior developers through my startup, Oryks Systems
-- ⚡ Fun fact: I'm an introvert who loves networking; find me on [linkedin][linkedin] and [twitter][twitter]
-
-[![Lyle's GitHub stats][stats-image]][stats-url]
-[![Top Langs][languages-image]][languages-url]
 
 [stats-image]: https://github-readme-stats.vercel.app/api?username=twyle&count_private=true&show_icons=true&theme=radical
 [stats-url]: https://github.com/twyle/github-readme-stats
