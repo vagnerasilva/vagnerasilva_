@@ -54,7 +54,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
-## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Content Creator!!
+## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Technical Writer!!
 
 - 🔭 Check out my articles: [Lyle's Blog Posts][lyles-blog]
 - 🌱 I’m currently learning business, psychology and bio-statistics
