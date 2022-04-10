@@ -56,11 +56,44 @@
 
 ## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Technical Writer!!
 
-- 🔭 Check out my articles: [Lyle's Blog Posts][lyles-blog]
-- 🌱 I’m currently learning business, psychology and bio-statistics
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Coach junior developers through my startup, Oryks Systems
-- ⚡ Fun fact: I'm an introvert who loves networking; find me on [linkedin][linkedin] and [twitter][twitter]
+- I understand and make use of the scrum framework with the following products: 
+    - Github Project feature
+    - Zenhub
+    - Jira (beginner)
+- Software dvelopment
+    - Data Structures and algorithms
+    - Object Oriented Programming
+- Database Design 
+    - SQL with Postgress (beginner)
+    - NOSQL with Mongo
+- Backend
+    - Flask 
+    - Django
+    - Node (beginner)
+- Frontend
+    - HTML5
+    - CSS
+    - Bootstrap
+    - React (beginner)
+- Software testing
+    - Unit tests with pytest
+    - Selenium (beginner)
+- DevOps
+    - Git, git-hooks
+    - Github, github workflows
+    - Heroku
+    - Ubuntu
+- Machine learning
+    - Business Analysis
+    - Data collection
+    - Modelling
+    - Deployment
+- MlOps
+- Documentation
+- Technical Writer
+- Portfolio
+- Resumee
+- Rotaractor
 
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
