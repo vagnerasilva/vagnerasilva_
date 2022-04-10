@@ -57,15 +57,15 @@
 ## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Technical Writer!!
 
 - I understand and make use of the scrum framework with the following products: 
-    - Github Project feature
+    - Github Projects ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
     - Zenhub
     - Jira (beginner)
-- Software dvelopment
+- I understand the core Software dvelopment principles including:
     - Data Structures and algorithms
     - Object Oriented Programming
-- Database Design 
+- I understand Database Design and manipulation with the following products:
     - SQL with Postgress (beginner)
-    - NOSQL with Mongo
+    - NOSQL with MongoDB
 - Backend
     - Flask 
     - Django
