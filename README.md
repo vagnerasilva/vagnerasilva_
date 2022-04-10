@@ -57,7 +57,7 @@
 ## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Technical Writer!!
 
 - I understand and make use of the scrum framework with the following products: 
-    - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)Github Projects 
+    - Github Projects 
     - Zenhub
     - Jira (beginner)
 - I understand the core Software dvelopment principles including:
