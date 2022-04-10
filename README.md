@@ -56,45 +56,6 @@
 
 ## I'm a Fullstack Developer, Machine Leaarning Engineer, Rotaractor and Technical Writer!!
 
-- I understand and make use of the scrum framework with the following products: 
-    - Github Projects 
-    - Zenhub
-    - Jira (beginner)
-- I understand the core Software dvelopment principles including:
-    - Data Structures and algorithms
-    - Object Oriented Programming
-- I understand Database Design and manipulation with the following products:
-    - SQL with Postgress (beginner)
-    - NOSQL with MongoDB
-- Backend
-    - Flask 
-    - Django
-    - Node (beginner)
-- Frontend
-    - HTML5
-    - CSS
-    - Bootstrap
-    - React (beginner)
-- Software testing
-    - Unit tests with pytest
-    - Selenium (beginner)
-- DevOps
-    - Git, git-hooks
-    - Github, github workflows
-    - Heroku
-    - Ubuntu
-- Machine learning
-    - Business Analysis
-    - Data collection
-    - Modelling
-    - Deployment
-- MlOps
-- Documentation
-- Technical Writer
-- Portfolio
-- Resumee
-- Rotaractor
-
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
 
