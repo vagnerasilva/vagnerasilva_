@@ -27,6 +27,20 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+
+- 📫 How to reach me **subham.raoniar@gmail.com**
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
+
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
 
@@ -34,6 +48,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [A CI/CD workflow for Machine Learning](https://medium.com/@lyle-okoth/a-ci-cd-workflow-for-machine-learning-b1977bf223ec?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
+
+[![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
 
 ## Want to reach me?
 I am available on all the major social platforms. </br> </br>
