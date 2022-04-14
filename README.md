@@ -1,4 +1,4 @@
-# Hi there, I'm Lyle 👋 
+# Hi there, I'm Lyle 👋  ![](https://komarev.com/ghpvc/?username=twyle&style=flat)
 ## I'm a Backend Developer, DevOps Engineer, Rotaractor and Technical Writer!!
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
