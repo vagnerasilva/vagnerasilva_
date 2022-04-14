@@ -53,19 +53,21 @@
 
 ## Want to reach me?
 I am available on all the major social platforms. </br> </br>
-[![Facebook][facebook-image]][facebook-link]
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Pinterest](https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Skype](https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![YouTube](https://img.shields.io/badge/<@lylethedesigner>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/>   
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>   
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>  
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/> 
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/<@lylethedesigner>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+</p>
 
 [stats-image]: https://github-readme-stats.vercel.app/api?username=twyle&count_private=true&show_icons=true&theme=radical
 [stats-url]: https://github.com/twyle/github-readme-stats
