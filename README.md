@@ -36,7 +36,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://twyle.github.io/portfolio-simple/**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://twyle.github.io/portfolio-simple/)**
 
 - 📫 How to reach me **okothlyleochieng@gmail.com**
 
