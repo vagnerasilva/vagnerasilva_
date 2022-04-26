@@ -30,7 +30,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[A GitHub Action that shows Pytest Code Coverage](https://github.com/twyle/oryks-code-coverage)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Docker and Technival Writing.**
 
