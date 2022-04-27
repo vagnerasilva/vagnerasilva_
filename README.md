@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on **[A GitHub Action that shows Pytest Code Coverage](https://github.com/twyle/oryks-code-coverage)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Docker and Technival Writing.**
+- 🌱 I’m currently learning **Machine learning, Natural Language Processing and Robot Operating System.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **okothlyleochieng@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I build Robots in my spare time.**
 
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
