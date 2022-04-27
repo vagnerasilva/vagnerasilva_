@@ -47,6 +47,7 @@
 
 # Lyle's Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An End-to-End E-commerce Application](https://medium.com/@lyle-okoth/an-end-to-end-e-commerce-application-b8eb86d60ddb?source=rss-2637c671f6af------2)
 - [A CI/CD workflow for Machine Learning](https://medium.com/@lyle-okoth/a-ci-cd-workflow-for-machine-learning-b1977bf223ec?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
 
