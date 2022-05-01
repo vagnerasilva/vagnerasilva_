@@ -47,6 +47,7 @@
 
 # Lyle's Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A JSON End-Point for shield.io badge](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-85e25751bcec?source=rss-2637c671f6af------2)
 - [A Flask Blog Application API](https://medium.com/@lyle-okoth/a-flask-blog-application-api-c29e95f7df0b?source=rss-2637c671f6af------2)
 - [GitHub OAuth using Python and Flask](https://medium.com/@lyle-okoth/github-oauth-using-python-and-flask-d051c6fea395?source=rss-2637c671f6af------2)
 - [An End-to-End E-commerce Application](https://medium.com/@lyle-okoth/an-end-to-end-e-commerce-application-b8eb86d60ddb?source=rss-2637c671f6af------2)
