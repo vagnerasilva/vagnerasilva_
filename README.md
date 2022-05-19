@@ -47,11 +47,11 @@
 
 # Lyle's Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub OAuth using Python and Flask](https://medium.com/@lyle-okoth/github-oauth-using-python-and-flask-a385876540af?source=rss-2637c671f6af------2)
 - [A JSON End-Point for shield.io badge](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-967c5e1e10cd?source=rss-2637c671f6af------2)
 - [A JSON End-Point for shield.io badge](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-6cb485144c9c?source=rss-2637c671f6af------2)
 - [A JSON End-Point for shield.io badge](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-85e25751bcec?source=rss-2637c671f6af------2)
 - [A Flask Blog Application API](https://medium.com/@lyle-okoth/a-flask-blog-application-api-c29e95f7df0b?source=rss-2637c671f6af------2)
-- [GitHub OAuth using Python and Flask](https://medium.com/@lyle-okoth/github-oauth-using-python-and-flask-d051c6fea395?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
