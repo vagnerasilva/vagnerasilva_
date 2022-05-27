@@ -47,7 +47,7 @@
 
 # Lyle's Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Create a Pytest GitHub Action that Shows Code Coverage.](https://medium.com/@lyle-okoth/creating-a-pytest-github-action-that-shows-code-coverage-b0d11655b748?source=rss-2637c671f6af------2)
+- [How To Create a Pytest GitHub Action that Shows Code Coverage: Part One.](https://medium.com/@lyle-okoth/creating-a-pytest-github-action-that-shows-code-coverage-b0d11655b748?source=rss-2637c671f6af------2)
 - [Creating a Pytest GitHub Action that Shows Code Coverage](https://medium.com/@lyle-okoth/creating-a-pytest-github-action-that-shows-code-coverage-b8d11c7a8cb0?source=rss-2637c671f6af------2)
 - [GitHub OAuth using Python and Flask](https://medium.com/@lyle-okoth/github-oauth-using-python-and-flask-a385876540af?source=rss-2637c671f6af------2)
 - [How To Create A JSON End-Point for shield.io badge: Part Three.](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-967c5e1e10cd?source=rss-2637c671f6af------2)
