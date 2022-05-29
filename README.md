@@ -48,7 +48,7 @@
 # Lyle's Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How To Create a Pytest GitHub Action that Shows Code Coverage: Part Two.](https://medium.com/@lyle-okoth/how-to-create-a-pytest-github-action-that-shows-code-coverage-part-two-43d4e4fb20a8?source=rss-2637c671f6af------2)
-- [How To Create a Pytest GitHub Action that Shows Code Coverage: Part One.](https://medium.com/@lyle-okoth/creating-a-pytest-github-action-that-shows-code-coverage-b0d11655b748?source=rss-2637c671f6af------2)
+- [How To Create a GitHub Action that Shows Code Coverage using Pytest: Part One.](https://medium.com/@lyle-okoth/creating-a-pytest-github-action-that-shows-code-coverage-b0d11655b748?source=rss-2637c671f6af------2)
 - [How To Authorize a User Using the GitHub OAuth API , Python and Flask: Part Two.](https://medium.com/@lyle-okoth/github-oauth-using-python-and-flask-a385876540af?source=rss-2637c671f6af------2)
 - [How To Create A Dynamic GitHub Badge Using Flask, Heroku and shields.io service: Part Three.](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-967c5e1e10cd?source=rss-2637c671f6af------2)
 - [How To Create A Dynamic GitHub Badge Using Flask, Heroku and shields.io service: Part Two.](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-6cb485144c9c?source=rss-2637c671f6af------2)
