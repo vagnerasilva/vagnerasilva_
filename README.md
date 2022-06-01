@@ -47,11 +47,11 @@
 
 # Lyle's Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a Containerized Flask Application to Heroku using GitHub Actions.](https://medium.com/@lyle-okoth/how-to-deploy-a-containerized-flask-application-to-heroku-using-github-actions-b0353880afc6?source=rss-2637c671f6af------2)
 - [How To Authorize a User Using the GitHub OAuth API using Python and Flask: Part Three.](https://medium.com/@lyle-okoth/how-to-authorize-a-user-using-the-github-oauth-api-using-python-and-flask-part-three-5261cac4c6ed?source=rss-2637c671f6af------2)
 - [How To Create a Pytest GitHub Action that Shows Code Coverage: Part Two.](https://medium.com/@lyle-okoth/how-to-create-a-pytest-github-action-that-shows-code-coverage-part-two-43d4e4fb20a8?source=rss-2637c671f6af------2)
 - [How To Create a GitHub Action that Shows Code Coverage using Pytest: Part One.](https://medium.com/@lyle-okoth/creating-a-pytest-github-action-that-shows-code-coverage-b0d11655b748?source=rss-2637c671f6af------2)
 - [How To Authorize a User Using the GitHub OAuth API , Python and Flask: Part Two.](https://medium.com/@lyle-okoth/github-oauth-using-python-and-flask-a385876540af?source=rss-2637c671f6af------2)
-- [How To Create A Dynamic GitHub Badge Using Flask, Heroku and shields.io service: Part Three.](https://medium.com/@lyle-okoth/a-json-end-point-for-shield-io-badge-967c5e1e10cd?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
