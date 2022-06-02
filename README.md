@@ -32,9 +32,9 @@
 
 - 🔭 I’m currently working on **[A GitHub Action that shows Pytest Code Coverage](https://github.com/twyle/oryks-code-coverage)**
 
-- 🌱 I’m currently learning **Machine learning, Natural Language Processing and Robot Operating System.**
+- 🌱 I’m currently learning **React.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects on ROS, Python as well as React.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://twyle.github.io/portfolio-simple/)**
 
