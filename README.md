@@ -47,11 +47,11 @@
 
 # Lyle's Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create an Elastic IP Address on AWS and Point Your Domain to it.](https://medium.com/@lyle-okoth/how-to-create-an-elastic-ip-address-on-aws-and-point-your-domain-to-it-61d45058667a?source=rss-2637c671f6af------2)
 - [How to Deploy a Production Grade Flask application to an AWS EC2 Instance using GitHub Actions…](https://medium.com/@lyle-okoth/how-to-deploy-a-production-grade-flask-application-to-an-aws-ec2-instance-using-github-actions-fabc8c16f8db?source=rss-2637c671f6af------2)
 - [How to Deploy a Production Grade Flask application to an AWS EC2 Instance using GitHub Actions…](https://medium.com/@lyle-okoth/how-to-deploy-a-production-grade-flask-application-to-an-aws-ec2-instance-using-github-actions-6241886b197?source=rss-2637c671f6af------2)
 - [How to Authenticate and Register a User using Flask-Dance and the GitHub OAuth API.](https://medium.com/@lyle-okoth/how-to-authenticate-and-register-a-user-using-flask-dance-and-the-github-oauth-api-a5aa64edc64b?source=rss-2637c671f6af------2)
 - [How to Deploy a Containerized Flask Application to Heroku using GitHub Actions.](https://medium.com/@lyle-okoth/how-to-deploy-a-containerized-flask-application-to-heroku-using-github-actions-b0353880afc6?source=rss-2637c671f6af------2)
-- [How To Authorize a User Using the GitHub OAuth API using Python and Flask: Part Three.](https://medium.com/@lyle-okoth/how-to-authorize-a-user-using-the-github-oauth-api-using-python-and-flask-part-three-5261cac4c6ed?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
