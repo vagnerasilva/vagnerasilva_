@@ -30,7 +30,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[A Web app that shows Code Coverage for Python Projects](https://github.com/twyle/code-coverage)**
+- 🔭 I’m currently working on **[A Web app that shows Code Quality for Python Projects](https://github.com/twyle/code-quality)**
 
 - 🌱 I’m currently learning **React.**
 
