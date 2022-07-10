@@ -54,6 +54,10 @@
 - [How to Deploy a Production Grade Flask application to an AWS EC2 Instance using GitHub Actions…](https://medium.com/@lyle-okoth/how-to-deploy-a-production-grade-flask-application-to-an-aws-ec2-instance-using-github-actions-163be1d5fbd5?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
 
 ## Want to reach me?
