@@ -60,7 +60,8 @@
 - [Answer by lyle okoth for Flask Debugger Mode: Setting up Variables](https://stackoverflow.com/questions/72923368/flask-debugger-mode-setting-up-variables/72926712#72926712)
 <!-- STACKOVERFLOW:END -->
 
-<figure><embed src="https://wakatime.com/share/@8e18278e-df1b-4ae5-8f95-86b867e8c11c/bc86a900-0d8f-41da-b59d-fbb73729dc83.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
 
