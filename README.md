@@ -56,6 +56,8 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by lyle okoth for Access postgress database &lpar;on host machine&rpar; from inside container](https://stackoverflow.com/questions/72926733/access-postgress-database-on-host-machine-from-inside-container/72926778#72926778)
+- [Answer by lyle okoth for Flask Debugger Mode: Setting up Variables](https://stackoverflow.com/questions/72923368/flask-debugger-mode-setting-up-variables/72926712#72926712)
 <!-- STACKOVERFLOW:END -->
 
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
