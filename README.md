@@ -60,6 +60,8 @@
 - [Answer by lyle okoth for Flask Debugger Mode: Setting up Variables](https://stackoverflow.com/questions/72923368/flask-debugger-mode-setting-up-variables/72926712#72926712)
 <!-- STACKOVERFLOW:END -->
 
+
+# Wakatime metrics
 <!--START_SECTION:waka-->
 
 ```text
