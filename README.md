@@ -144,6 +144,8 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
  Last Updated on 11/07/2022 16:30:03 UTC
 <!--END_SECTION:waka-->
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
+
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
 
 ## Want to reach me?
