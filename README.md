@@ -149,7 +149,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&&ext=activity)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord&&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
 
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
 
