@@ -63,7 +63,7 @@
 
 # Wakatime metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -140,7 +140,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/twyle/twyle/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2022 15:47:49 UTC
+ Last Updated on 11/07/2022 16:30:03 UTC
 <!--END_SECTION:waka-->
 
 [![Lyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=twyle&theme=react-dark)](https://github.com/twyle/github-readme-activity-graph)
