@@ -111,18 +111,16 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 47 mins             ██████████████████████░░░   89.89% 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.07% 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Code-Coverage-Monitor-Pla52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -143,7 +141,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/twyle/twyle/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/08/2022 20:20:52 UTC
+ Last Updated on 11/08/2022 01:19:39 UTC
 <!--END_SECTION:waka-->
 
 
