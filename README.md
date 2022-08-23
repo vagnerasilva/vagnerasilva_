@@ -64,7 +64,7 @@
 
 # Wakatime metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -147,7 +147,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/twyle/twyle/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 10:21:26 UTC
+ Last Updated on 23/08/2022 12:35:08 UTC
 <!--END_SECTION:waka-->
 
 
