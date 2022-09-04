@@ -42,6 +42,21 @@
 
 - ⚡ Fun fact **I build Robots in my spare time.**
 
+## Skills and Expertise
+
+- Programming languages: Python, C++, Javascript
+- Server-side Frameworks: Flask, Django
+- Client-side Frameworks: React
+- Other frameworks and tools: Robot Operating System (ROS)
+- Agile methodologies and Tools:
+    - Unit Testing – Pytest, Unittest
+    - CI/CD and Versioning – git, docker, docker-compose, github actions, kubernetes, AWS
+    - Feature Driven Development – Scrum, Test Driven Development (TDD)
+ - Databases and ORM: Postgres, MongoDB
+ - Operating Systems: Linux, Windows
+ - Logging: ELK stack
+ - Cloud: AWS (EC2, S3), GCP
+
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
 
