@@ -30,9 +30,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a fullstack software engineer with a background in robotics. I love solving complex problems involving algorithmic design and has extensive experience building and deploying microservices for robotics applications - over at Oryks Robotics.
+- 🔭 I am a **Fullstack Software Engineer** with a background in robotics. I love solving complex problems involving algorithmic design and has extensive experience building and deploying microservices for robotics applications - over at Oryks Robotics.
 
-- 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics.
+- 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics. My main focus is one developer tools offered by AWS.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects on ROS, Python as well as React.**
 
@@ -44,18 +44,18 @@
 
 ## Skills and Expertise
 
-- Programming languages: Python, C++, Javascript
-- Server-side Frameworks: Flask, Django
-- Client-side Frameworks: React
-- Other frameworks and tools: Robot Operating System (ROS)
-- Agile methodologies and Tools:
+- **Programming languages**: Python, C++, Javascript
+- **Server-side Frameworks**: Flask, Django
+- **Client-side Frameworks**: React
+- **Other frameworks and tools**: Robot Operating System (ROS), HTML, CSS, Bootstrap
+- **Agile methodologies and Tools**:
     - Unit Testing – Pytest, Unittest
     - CI/CD and Versioning – git, docker, docker-compose, github actions, kubernetes, AWS
     - Feature Driven Development – Scrum, Test Driven Development (TDD)
- - Databases and ORM: Postgres, MongoDB
- - Operating Systems: Linux, Windows
- - Logging: ELK stack
- - Cloud: AWS (EC2, S3), GCP
+ - **Databases and ORM**: Postgres, MongoDB
+ - **Operating Systems**: Linux, Windows
+ - **Logging**: ELK stack
+ - **Cloud**: AWS (EC2, S3), GCP
 
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
