@@ -49,9 +49,9 @@
 - **Client-side Frameworks**: React
 - **Other frameworks and tools**: Robot Operating System (ROS), HTML, CSS, Bootstrap
 - **Agile methodologies and Tools**:
-    - Unit Testing – Pytest, Unittest
-    - CI/CD and Versioning – git, docker, docker-compose, github actions, kubernetes, AWS
-    - Feature Driven Development – Scrum, Test Driven Development (TDD)
+    - **Unit Testing** – Pytest, Unittest
+    - **CI/CD and Versioning** – git, docker, docker-compose, github actions, kubernetes, AWS
+    - **Feature Driven Development** – Scrum, Test Driven Development (TDD)
  - **Databases and ORM**: Postgres, MongoDB
  - **Operating Systems**: Linux, Windows
  - **Logging**: ELK stack
