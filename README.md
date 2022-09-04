@@ -1,8 +1,6 @@
 # Hi there, I'm Lyle 👋  ![](https://komarev.com/ghpvc/?username=twyle&style=flat)  <a href="https://github.com/twyle?tab=followers"><img src="https://img.shields.io/github/followers/twyle?label=Followers&style=social" alt="GitHub Badge"></a>
 <img title="image" src="https://github.com/twyle/twyle/blob/main/Community Builder social 2400px.png" />
 
-I am a fullstack software engineer with a background in robotics. I love solving complex problems involving algorithmic design and has extensive experience building and deploying microservices for robotics applications - over at Oryks Robotics.
-
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -32,9 +30,9 @@ I am a fullstack software engineer with a background in robotics. I love solving
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[A Web app that shows Code Quality for Python Projects](https://github.com/twyle/code-quality)**
+- 🔭 I am a fullstack software engineer with a background in robotics. I love solving complex problems involving algorithmic design and has extensive experience building and deploying microservices for robotics applications - over at Oryks Robotics.
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects on ROS, Python as well as React.**
 
