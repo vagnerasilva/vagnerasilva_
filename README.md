@@ -32,7 +32,7 @@
 
 - 🔭 I am a **Fullstack Software Engineer** with a background in robotics. I love solving complex problems involving algorithmic design and has extensive experience building and deploying microservices for robotics applications - over at Oryks Robotics.
 
-- 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics. My main focus is one developer tools offered by AWS.
+- 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics. My main focus is one developer tools offered by AWS. You can find my articles over at [medium](https://medium.com/@lyle-okoth)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects on ROS, Python as well as React.**
 
