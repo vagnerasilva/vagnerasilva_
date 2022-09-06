@@ -79,7 +79,7 @@
 
 # Wakatime metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,13 +87,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,018 Contributions in the Year 2022
+> 🏆 1,019 Contributions in the Year 2022
  > 
 > 📦 181.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 📜 70 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -150,11 +150,11 @@ Linux                    15 hrs 36 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            █████████████████░░░░░░░░   68.75% 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+Python                   33 repos            ████████████████░░░░░░░░░   67.35% 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
 
 ```
 
@@ -164,7 +164,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/twyle/twyle/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 04:28:17 UTC
+ Last Updated on 06/09/2022 07:04:48 UTC
 <!--END_SECTION:waka-->
 
 
