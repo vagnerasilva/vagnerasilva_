@@ -79,7 +79,7 @@
 
 # Wakatime metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,7 +89,7 @@
 
 > 🏆 1,020 Contributions in the Year 2022
  > 
-> 📦 182.3 kB Used in GitHub's Storage 
+> 📦 191.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -164,7 +164,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/twyle/twyle/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 08:33:21 UTC
+ Last Updated on 07/09/2022 10:22:08 UTC
 <!--END_SECTION:waka-->
 
 
