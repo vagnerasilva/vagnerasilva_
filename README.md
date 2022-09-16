@@ -44,13 +44,13 @@
 
 ## Skills and Expertise
 
-- **Programming languages**: Python, C, Javascript
+- **Programming languages**: Python, C
 - **Server-side Frameworks**: Flask, Django
 - **Client-side Frameworks**: React
-- **Other frameworks and tools**: Robot Operating System (ROS), HTML, CSS, Bootstrap
+- **Other frameworks and tools**: Robot Operating System (ROS)
 - **Agile methodologies and Tools**:
     - **Unit Testing** – Pytest, Unittest
-    - **CI/CD and Versioning** – git, docker, docker-compose, github actions, kubernetes, AWS
+    - **CI/CD and Versioning** – git, docker, docker-compose, github actions, kubernetes
     - **Feature Driven Development** – Scrum, Test Driven Development (TDD)
  - **Databases and ORM**: Postgres, MongoDB
  - **Operating Systems**: Linux, Windows
