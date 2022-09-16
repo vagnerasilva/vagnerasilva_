@@ -44,7 +44,7 @@
 
 ## Skills and Expertise
 
-- **Programming languages**: Python, C++, Javascript
+- **Programming languages**: Python, C, Javascript
 - **Server-side Frameworks**: Flask, Django
 - **Client-side Frameworks**: React
 - **Other frameworks and tools**: Robot Operating System (ROS), HTML, CSS, Bootstrap
