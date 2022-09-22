@@ -30,7 +30,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a **Software Engineer** with a background in robotics. I love solving complex problems involving algorithmic design and has extensive experience building and deploying microservices using Flask, Django and Amazon Web Services.
+- 🔭 I am a **Software Engineer** with a background in robotics. I love solving complex problems involving algorithmic design and cloud computing with extensive experience building and deploying microservices using Flask, Django and Amazon Web Services.
 
 - 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics. My main focus is one developer tools offered by AWS. You can find my articles over at [medium](https://medium.com/@lyle-okoth)
 
@@ -38,20 +38,25 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://twyle.github.io/portfolio-simple/)**
 
-- 📫 How to reach me **okothlyleochieng@gmail.com**
+- 📫 How to reach me through email **okothlyleochieng@gmail.com**
+
+- 📫 How to reach me on twitter **[@lylethedesigner](https://twitter.com/lylethedesigner)**
+
+- 📫 How to reach me on linkedin **[Lyle Okoth](https://www.linkedin.com/in/lyle-okoth/)**
 
 - ⚡ Fun fact **I build Robots in my spare time.**
 
 ## Skills and Expertise
 
-- **Programming languages**: Python | C
+- **Programming languages**: Python | C | Javascript
 - **Server-side Frameworks**: Flask | Django
+- **Client-side Frameworks**: React
 - **Other frameworks and tools**: Robot Operating System (ROS)
 - **Agile methodologies and Tools**:
     - **Unit Testing**: Pytest | Unittest
     - **CI/CD and Versioning**: git | docker | docker-compose | github actions
     - **Feature Driven Development**: Scrum | Test Driven Development (TDD)
- - **Databases and ORM**: Postgres | MongoDB | SQL Alchemy
+ - **Databases and ORM**: Postgres | MongoDB | SQL Alchemy | SQL
  - **Operating Systems**: Linux | Windows
  - **Logging**: ELK stack
  - **Cloud**: AWS EC2 | AWS S3 | AWS ECS | AWS EK8 | AWS ECR | AWS CloudFormation
