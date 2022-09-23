@@ -30,7 +30,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a **Software Engineer** with a background in robotics. I love solving complex problems involving algorithmic design and cloud computing with extensive experience building and deploying microservices using Flask, Django and Amazon Web Services.
+- 🔭 I am a **Software Engineer** with some DevOps experience. I love solving complex problems involving algorithmic design and cloud computing with extensive experience building and deploying microservices using Flask, Django and Amazon Web Services.
 
 - 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics. My main focus is one developer tools offered by AWS. You can find my articles over at [medium](https://medium.com/@lyle-okoth)
 
