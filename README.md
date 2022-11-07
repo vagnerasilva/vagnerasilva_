@@ -173,7 +173,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ## Leetcode stats
 
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&&ext=activity) -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/twyle?theme=dark&&ext=activity)
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&&ext=contest) -->
 
