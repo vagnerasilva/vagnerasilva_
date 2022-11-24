@@ -49,9 +49,9 @@
 ## Skills and Expertise
 
 - **Programming languages**: Python | C | Javascript
-- **Server-side Frameworks**: Flask | Django
+- **Server-side Frameworks**: Flask 
 - **Client-side Frameworks**: React
-- **Other frameworks and tools**: Robot Operating System (ROS)
+- **Other frameworks and tools**: Robot Operating System (ROS) | Celery | Scrapy
 - **Agile methodologies and Tools**:
     - **Unit Testing**: Pytest | Unittest
     - **CI/CD and Versioning**: git | docker | docker-compose | github actions
@@ -59,7 +59,7 @@
  - **Databases and ORM**: Postgres | MongoDB | SQL Alchemy | SQL
  - **Operating Systems**: Linux | Windows
  - **Logging**: ELK stack
- - **Cloud**: AWS EC2 | AWS S3 | AWS ECS | AWS EK8 | AWS ECR | AWS CloudFormation
+ - **Cloud**: AWS EC2 | AWS S3 | AWS ECS | AWS EK8 | AWS ECR | AWS CloudFormation | AWS SQS
 
 [![Lyle's GitHub stats][stats-image]][stats-url]
 [![Top Langs][languages-image]][languages-url]
