@@ -173,5 +173,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ## Leetcode stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/twyle?theme=dark&&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vagnerantoniodasilva?theme=dark&&ext=activity)
 
