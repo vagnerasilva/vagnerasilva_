@@ -197,19 +197,3 @@ I am available on all the major social platforms. </br> </br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
 </p>
 
-[stats-image]: https://github-readme-stats.vercel.app/api?username=twyle&count_private=true&show_icons=true&theme=radical
-[stats-url]: https://github.com/twyle/github-readme-stats
-
-[languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=twyle&langs_count=8&layout=compact
-[languages-url]: https://github.com/twyle/github-readme-stats
-
-[lyles-blog]: https://medium.com/@lyle-okoth
-[twitter]: https://medium.com/@lyle-okoth
-[linkedin]: https://medium.com/@lyle-okoth
-[npm]: https://www.npmjs.com/~lyle-okoth
-
-[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
-[markdown-badges]: https://github.com/Ileriayo/markdown-badges
-
-[facebook-image]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
-[facebook-link]: https://web.facebook.com/lyce.okeke/
