@@ -1,5 +1,5 @@
 # Hi there, I'm Vagner 👋  ![](https://komarev.com/ghpvc/?username=vagnerasilva&style=flat)  <a href="https://github.com/vagnerasilva?tab=followers"><img src="https://img.shields.io/github/followers/vagnerasilva?label=Followers&style=social" alt="GitHub Badge"></a>
-<img title="image" src="https://github.com/vagnerasilva_/twyle/blob/main/github-banner-v2.png" />
+
 
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lyle's streak" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
